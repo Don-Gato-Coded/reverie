@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ChromeBook
+title: Chromebook
 categories: [ChromeBook, Linux]
 ---
  After years as a dedicated mac person, going back to os9. I have moved over to a Chromebook / Pixel setup for daily driving
