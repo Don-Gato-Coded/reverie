@@ -4,5 +4,5 @@ title: Threads2
 categories: [Threads]
 ---
 
-   ![screaming girl](/images/reverie.png)
+   ![screaming girl](images/reverie.png)
     
